@@ -1,3 +1,2 @@
 # OSSP
-
-Hi!
+fetch & merge
